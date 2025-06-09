@@ -9,7 +9,7 @@
       "To choose this file as the master key list and as the one to validate against",
       "set its locale code ('--file') as the default_locale in the manifest file"
     ],
-    "value": "Translation for Comment"
+    "value": "Translation fosdsr Comment"
   },
   "My Key": {
     "value": "My Translation",
