@@ -5,7 +5,7 @@
       "There is one .strings.json file per locale.",
       "Define your translated strings one key at a time demonstrated below",
       "Keys can be any string; choose whatever scheme helps you stay organized",
-      "Then, set your Lookml label and description parameters to the desired key values.",
+      "Then, set youssr Lookml label and description parameters to the desired key values.",
       "To choose this file as the master key list and as the one to validate against",
       "set its locale code ('--file') as the default_locale in the manifest file"
     ],
